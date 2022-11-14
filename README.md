@@ -1,2 +1,0 @@
-# WebXR-paint-byNiko
-integracion
